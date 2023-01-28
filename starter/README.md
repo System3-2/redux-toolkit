@@ -603,7 +603,7 @@ export default Modal;
 #### async functionality with createAsyncThunk
 
 - [Course API](https://course-api.com/)
-- https://course-api.com/react-useReducer-cart-project
+- <https://course-api.com/react-useReducer-cart-project>
 - cartSlice.js
 
 - action type
